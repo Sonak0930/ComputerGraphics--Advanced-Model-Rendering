@@ -10,11 +10,6 @@ This includes snapshots for each features. <br>
 
 https://github.com/user-attachments/assets/eb04f797-3807-44d9-acb4-c39c75694a29
 
-
-
-https://github.com/user-attachments/assets/8eb88558-50b1-4fad-9ffc-732dc081b97c
-
-
 this shows how to render a model with texture. <br>
 no lighting and shadowing have not been applied yet. <br>
 
