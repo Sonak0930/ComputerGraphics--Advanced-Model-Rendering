@@ -181,7 +181,7 @@ vec3 CalculateSpecularReflection()
 			float pSchlick=mix(specularReflectivity,1.0,beta);
 			//light source on the right side.
 			specularReflections[i] = attenuations[i] * vec3(lights[i].specular)
-			* pSchlick
+			
 			* vec3(mymaterials[i].specular) 
 			* pow(max(0.0, dot(reflect(-lightDirections[i], normalDirection), viewDirection)),
 	      mymaterials[i].shininess);

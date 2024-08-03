@@ -35,8 +35,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-29T04:53:43.814Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -48,8 +47,7 @@
               "RelativeToolTip": "ComputerGraphics_2_RotatingBunny\\model_loading.fs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-31T05:48:09.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T05:48:09.933Z"
             },
             {
               "$type": "Document",
@@ -57,9 +55,9 @@
               "Title": "model_loading.vs",
               "DocumentMoniker": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\model_loading.vs",
               "RelativeDocumentMoniker": "ComputerGraphics_2_RotatingBunny\\model_loading.vs",
-              "ToolTip": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\model_loading.vs",
-              "RelativeToolTip": "ComputerGraphics_2_RotatingBunny\\model_loading.vs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIsAAAAJAAAA",
+              "ToolTip": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\model_loading.vs*",
+              "RelativeToolTip": "ComputerGraphics_2_RotatingBunny\\model_loading.vs*",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAALcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-07-31T05:48:07.523Z",
               "EditorCaption": ""
