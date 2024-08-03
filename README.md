@@ -7,7 +7,10 @@ The techniques include model loading, lighting(Phong, Blinn-Phong), shadowing(Ph
 This includes snapshots for each features. <br>
 
 ##  basic
-https://github.com/user-attachments/assets/ca763f76-21af-4acb-97de-d6f5962999e9 <br>
+<video width="320" height="240" controls autoplay muted loop>
+<source src="https://github.com/Sonak0930/ComputerGraphics--Advanced-Model- Rendering/raw/main/snap%20shots/1.BasicModelRotation.mp4" type="video/mp4">
+</video> 
+
 this shows how to render a model with texture. <br>
 no lighting and shadowing have not been applied yet. <br>
 
