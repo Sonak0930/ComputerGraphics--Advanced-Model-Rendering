@@ -33,9 +33,4 @@
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="shader_m.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>

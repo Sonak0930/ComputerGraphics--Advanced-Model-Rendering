@@ -1,0 +1,10 @@
+﻿  testbox.cpp
+C:\Users\woals\vcpkg\installed\x64-windows\include\Animation.h(52,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\woals\vcpkg\installed\x64-windows\include\Animation.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 844 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ComputerGraphics_2_RotatingBunny.vcxproj -> C:\Users\woals\source\repos\ComputerGraphics_2_RotatingBunny\x64\Release\ComputerGraphics_2_RotatingBunny.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
