@@ -32,5 +32,17 @@
     <None Include="model_loading.fs">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="shadow_mapping.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shadow_mapping.vs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shadow_mapping_depth.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shadow_mapping_depth.vs">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

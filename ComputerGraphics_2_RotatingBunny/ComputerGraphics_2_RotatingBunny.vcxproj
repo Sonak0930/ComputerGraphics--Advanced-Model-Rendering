@@ -26,6 +26,10 @@
     <None Include="model_loading.vs" />
     <None Include="res\shaders\3.3.shader.fs" />
     <None Include="res\shaders\3.3.shader.vs" />
+    <None Include="shadow_mapping.fs" />
+    <None Include="shadow_mapping.vs" />
+    <None Include="shadow_mapping_depth.fs" />
+    <None Include="shadow_mapping_depth.vs" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

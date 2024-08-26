@@ -3,28 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\model_loading.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|solutionrelative:ComputerGraphics_2_RotatingBunny\\model_loading.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\shadow_mapping.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|solutionrelative:ComputerGraphics_2_RotatingBunny\\shadow_mapping.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|C:\\USERS\\WOALS\\VCPKG\\INSTALLED\\X64-WINDOWS\\INCLUDE\\CUSTOMSHADER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\shadow_mapping.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|solutionrelative:ComputerGraphics_2_RotatingBunny\\shadow_mapping.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\testbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|solutionrelative:ComputerGraphics_2_RotatingBunny\\testbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\model_loading.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|solutionrelative:ComputerGraphics_2_RotatingBunny\\model_loading.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\model_loading.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|solutionrelative:ComputerGraphics_2_RotatingBunny\\model_loading.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|C:\\USERS\\WOALS\\VCPKG\\INSTALLED\\X64-WINDOWS\\INCLUDE\\CUSTOMSHADER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6B2D4CC-0DAC-4B9D-8F3B-8438D778371A}|ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny.vcxproj|C:\\USERS\\WOALS\\VCPKG\\INSTALLED\\X64-WINDOWS\\INCLUDE\\STB_IMAGE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,97 +33,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shadow_mapping.vs",
+              "DocumentMoniker": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\shadow_mapping.vs",
+              "RelativeDocumentMoniker": "ComputerGraphics_2_RotatingBunny\\shadow_mapping.vs",
+              "ToolTip": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\shadow_mapping.vs",
+              "RelativeToolTip": "ComputerGraphics_2_RotatingBunny\\shadow_mapping.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-21T03:47:39.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "customShader.h",
+              "DocumentMoniker": "C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\customShader.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\vcpkg\\installed\\x64-windows\\include\\customShader.h",
+              "ToolTip": "C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\customShader.h",
+              "RelativeToolTip": "..\\..\\..\\vcpkg\\installed\\x64-windows\\include\\customShader.h",
+              "ViewState": "AQIAAKMAAAAAAAAAAIAwwLMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-22T01:10:15.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shadow_mapping.fs",
+              "DocumentMoniker": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\shadow_mapping.fs",
+              "RelativeDocumentMoniker": "ComputerGraphics_2_RotatingBunny\\shadow_mapping.fs",
+              "ToolTip": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\shadow_mapping.fs",
+              "RelativeToolTip": "ComputerGraphics_2_RotatingBunny\\shadow_mapping.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-21T03:47:39.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "model_loading.fs",
               "DocumentMoniker": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\model_loading.fs",
               "RelativeDocumentMoniker": "ComputerGraphics_2_RotatingBunny\\model_loading.fs",
               "ToolTip": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\model_loading.fs",
               "RelativeToolTip": "ComputerGraphics_2_RotatingBunny\\model_loading.fs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-08-12T06:26:39.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "model_loading.vs",
               "DocumentMoniker": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\model_loading.vs",
               "RelativeDocumentMoniker": "ComputerGraphics_2_RotatingBunny\\model_loading.vs",
               "ToolTip": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\model_loading.vs",
               "RelativeToolTip": "ComputerGraphics_2_RotatingBunny\\model_loading.vs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-08-12T06:26:40.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "customShader.h",
-              "DocumentMoniker": "C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\customShader.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\vcpkg\\installed\\x64-windows\\include\\customShader.h",
-              "ToolTip": "C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\customShader.h",
-              "RelativeToolTip": "..\\..\\..\\vcpkg\\installed\\x64-windows\\include\\customShader.h",
-              "ViewState": "AQIAAJ8AAAAAAAAAAAAAwLIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-12T06:17:06.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "stb_image.h",
-              "DocumentMoniker": "C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\stb_image.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\vcpkg\\installed\\x64-windows\\include\\stb_image.h",
-              "ToolTip": "C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\stb_image.h",
-              "RelativeToolTip": "..\\..\\..\\vcpkg\\installed\\x64-windows\\include\\stb_image.h",
-              "ViewState": "AQIAAGgCAAAAAAAAAAAgwNkCAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-12T06:16:45.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "testbox.cpp",
               "DocumentMoniker": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\testbox.cpp",
               "RelativeDocumentMoniker": "ComputerGraphics_2_RotatingBunny\\testbox.cpp",
               "ToolTip": "C:\\Users\\woals\\source\\repos\\ComputerGraphics_2_RotatingBunny\\ComputerGraphics_2_RotatingBunny\\testbox.cpp",
               "RelativeToolTip": "ComputerGraphics_2_RotatingBunny\\testbox.cpp",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAiwFsAAAAsAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAKsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-12T06:13:45.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Animation.h",
-              "DocumentMoniker": "C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\Animation.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\vcpkg\\installed\\x64-windows\\include\\Animation.h",
-              "ToolTip": "C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\Animation.h",
-              "RelativeToolTip": "..\\..\\..\\vcpkg\\installed\\x64-windows\\include\\Animation.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-09T02:05:52.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "model.h",
-              "DocumentMoniker": "C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\model.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\vcpkg\\installed\\x64-windows\\include\\model.h",
-              "ToolTip": "C:\\Users\\woals\\vcpkg\\installed\\x64-windows\\include\\model.h",
-              "RelativeToolTip": "..\\..\\..\\vcpkg\\installed\\x64-windows\\include\\model.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-09T00:27:31.196Z",
+              "WhenOpened": "2024-08-20T02:32:13.685Z",
               "EditorCaption": ""
             }
           ]
